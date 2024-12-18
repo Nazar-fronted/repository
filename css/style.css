@@ -1,0 +1,10 @@
+:root{
+    --accent-color: #03a9f4;
+    --dark-gray: #626262;
+    --bg-color: #E5E5E5;
+
+}
+
+nav{
+    color: var(--accent-color)
+}
